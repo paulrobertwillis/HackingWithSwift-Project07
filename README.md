@@ -1,7 +1,7 @@
 # HackingWithSwift-Project07
 <b>Whitehouse Petitions</b>
 
-<p>Swift + SwiftUI Features Explored:<p>
+<p>Swift + UIKit Features Explored:<p>
 <ul>
   <li>Downloading JSON with Data</li>
   <li>Codable</li>
